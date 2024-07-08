@@ -1,0 +1,6 @@
+node_modules
+//program written by Asaad
+// Date : 01-07-2024
+// This program will write Hello world
+
+console.log("Hello world");
